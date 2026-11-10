@@ -1,0 +1,8 @@
+{
+  "name": "typingguru",
+  "version": "1.0.0",
+  "description": "Typing speed test application with Vercel Speed Insights",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
