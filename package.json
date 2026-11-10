@@ -1,0 +1,19 @@
+{
+  "name": "typingguru",
+  "version": "1.0.0",
+  "description": "Typing Speed Test - Free WPM Test Online",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "preview": "npx http-server -p 3000"
+  },
+  "keywords": [
+    "typing-test",
+    "wpm",
+    "typing-speed"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
